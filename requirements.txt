@@ -1,0 +1,4 @@
+lightning
+torch
+torchvision
+transformers==4.19.2
